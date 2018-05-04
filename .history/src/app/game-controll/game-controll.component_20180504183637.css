@@ -1,0 +1,29 @@
+
+.flex-container {
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.start-btn {
+    background-color:  #ffffff;
+    color: #4bffab;
+    border: solid 3px #4bffab;
+    width: 300px;
+    height: 60px;
+    font-size: 21px;
+    font-weight: lighter;
+    margin: auto;
+}
+
+.pause-btn {
+    background-color:  #ffffff;
+    color: #f87567;
+    border: solid 3px #f87567;
+    width: 300px;
+    height: 60px;
+    font-size: 21px;
+    font-weight: lighter;
+    margin: auto;
+}
